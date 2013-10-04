@@ -1,6 +1,6 @@
 OasisWebMapping-Lite
 ====================
-All lib folder should be stored one place in server and accessible over http or https
+All files inside lib folder should be stored one place in server and accessible over http or https
 
 Initial code
 -----------
