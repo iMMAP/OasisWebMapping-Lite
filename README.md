@@ -3,7 +3,7 @@ OasisWebMapping-Lite
 All lib folder should be stored one place in server and accessible over http or https
 
 Initial code
-===========
+-----------
 Call require.js and API library from html file to oasis-lite server
 example :
 
